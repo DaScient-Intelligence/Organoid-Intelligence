@@ -888,3 +888,7 @@ Finally, we reviewed the watershed moments of the 2020s — the DishBrain experi
 
 **Copyright © 2026 DaScient, LLC. All rights reserved.**
 Licensed under the [Apache License 2.0](../../../LICENSE).
+
+---
+
+<sub>Support DaScient, Inc. (non-profit): [Donations](https://cash.app/dascient/)</sub>

@@ -1043,3 +1043,7 @@ Reservoir computing represents a paradigm shift in recurrent neural computation:
 
 **Copyright © 2026 DaScient, LLC. All rights reserved.**
 Licensed under the [Apache License 2.0](../../../LICENSE).
+
+---
+
+<sub>Support DaScient, Inc. (non-profit): [Donations](https://cash.app/dascient/)</sub>
