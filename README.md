@@ -190,3 +190,7 @@ If you use this repository or textbook in your research, please cite:
 Copyright © 2026 DaScient, LLC. All rights reserved.
 
 This repository is licensed under the [Apache License 2.0](LICENSE). The textbook content (`docs/textbook/`) is made available for educational and research use. See the LICENSE file for full terms.
+
+---
+
+<sub>Support DaScient, Inc. (non-profit): [Donations](https://cash.app/dascient/)</sub>

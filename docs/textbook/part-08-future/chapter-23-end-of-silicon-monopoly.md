@@ -1002,3 +1002,7 @@ We presented a reference architecture for heterogeneous computing in which silic
 
 **Copyright © 2026 DaScient, LLC. All rights reserved.**
 Licensed under the [Apache License 2.0](../../../LICENSE).
+
+---
+
+<sub>Support DaScient, Inc. (non-profit): [Donations](https://cash.app/dascient/)</sub>

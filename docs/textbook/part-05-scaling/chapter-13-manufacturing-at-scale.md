@@ -996,3 +996,7 @@ The cost analysis revealed that organoid costs can be reduced from $150–250 pe
 
 **Copyright © 2026 DaScient, LLC. All rights reserved.**
 Licensed under the [Apache License 2.0](../../../LICENSE).
+
+---
+
+<sub>Support DaScient, Inc. (non-profit): [Donations](https://cash.app/dascient/)</sub>
